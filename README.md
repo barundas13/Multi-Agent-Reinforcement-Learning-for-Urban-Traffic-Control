@@ -2,7 +2,7 @@
 
 This project explores the use of Multi-Agent Reinforcement Learning (MARL) to develop an intelligent and decentralized traffic control system. The goal is to train independent traffic light agents to cooperatively manage traffic flow in a simulated urban grid, aiming to reduce vehicle wait time and overall trip duration compared to a standard fixed-time controller. The system is built using Python and PyTorch for the agents and SUMO (Simulation of Urban Mobility) for the traffic simulation.
 
-## Project Structure & File Descriptions
+## File Descriptions
 
 This repository contains all the necessary code and configuration files to reproduce the experiment.
 
